@@ -1,38 +1,36 @@
-# CS 440 --- Artificial Intelligence
-##### Artificial Intelligence MPs
+# 🧠 CS440 Artificial Intelligence
 
-## Repository
-#### MP1 - [Maze Search](https://gitlab.engr.illinois.edu/hongboz2/artificial_intelligence/-/tree/main/Maze_Search)
+Artificial Intelligence Materials.
 
-Implementation of general-purpose search algorithm
-* [BFS] Breadth-first search, with one waypoint
-* A* Search, with one waypoint
-* A* Search, with many waypoints
-* Faster A* Search, with many waypoints
+## 📝 Assignments
 
-#### MP2 - [Configuration Space Planning](https://gitlab.engr.illinois.edu/hongboz2/artificial_intelligence/-/tree/main/Configuration_Space_Planning)
+- [Maze Search](https://github.com/hongbozheng/artificial-intelligence/tree/main/maze_search)
 
-Transform a shapeshifting alien path planning problem into a configuration space
+- [Configuration Space Planning](https://github.com/hongbozheng/artificial-intelligence/tree/main/configuration_space_planning)
 
-#### MP3 - [Naive Bayes](https://gitlab.engr.illinois.edu/hongboz2/artificial_intelligence/-/tree/main/Naive_Bayes)
+- [Naive Bayes](https://github.com/hongbozheng/artificial-intelligence/tree/main/naive_bayes)
 
-Use Naive Bayes algorithm to train a binary sentiment classifier with a dataset of movie reviews
+- [HMM POS tagging](https://github.com/hongbozheng/artificial-intelligence/tree/main/hmm_pos_tagging)
 
-Learning a bag of words [unigram, bigram] model that will classify a review as positive or negative based on the words it contains
+- [Perceptron and kNN](https://github.com/hongbozheng/artificial-intelligence/tree/main/perceptron_and_kNN)
 
-#### MP4 - [HMM POS tagging](https://gitlab.engr.illinois.edu/hongboz2/artificial_intelligence/-/tree/main/HMM_POS_tagging)
+- [Neural Nets and PyTorch](https://github.com/hongbozheng/artificial-intelligence/tree/main/neural_nets_and_pytorch)
 
-Implement part of speech [POS] tagging using an HMM model [Hidden Markov Models]
+- [Reinforcement Learning](https://github.com/hongbozheng/artificial-intelligence/tree/main/reinforcement_learning)
 
-#### MP5 - [Perceptron and kNN](https://gitlab.engr.illinois.edu/hongboz2/artificial_intelligence/-/tree/main/Perceptron_and_kNN)
+## ⚖️ Academic Integrity Disclaimer
 
-Implement the perceptron and K-nearest neighbors [kNN] algorithm to detect whether or not an image contains an animal or not
+This repository contains original work completed by Hongbo Zheng as part of academic coursework. It is published **solely for archival**, **professional demonstration**, and **educational transparency**.
 
-#### MP6 - [Neural Nets and PyTorch](https://gitlab.engr.illinois.edu/hongboz2/artificial_intelligence/-/tree/main/Neural_Nets_and_Pytorch)
+> **⚠️ Unauthorized use of this code in any academic context is strictly prohibited. ⚠️**
 
-Employ neural networks, nonlinear and multi-layer extensions of the linear perceptron, to classify images into 4 categories:
-ship, automobile, dog, or frog
+Any reproduction, redistribution, or use of this material—whether in part or in whole—for the purpose of fulfilling course requirements at any academic institution **may constitute a violation of academic integrity policies**, including but not limited to plagiarism and unauthorized collaboration.
 
-#### MP7 - [Reinforcement Learning](https://gitlab.engr.illinois.edu/hongboz2/artificial_intelligence/-/tree/main/Reinforcement_Learning)
+I, the author, **explicitly disclaim any responsibility** for academic code of conduct violations resulting from the misuse of this repository. It is your responsibility to adhere to your institution’s policies regarding academic honesty and original work.
 
-Implement a TD [temporary difference] version of the Q-Learning algorithm
+If you are currently enrolled in a course that includes similar assignments or projects:
+
+- Do **not copy**, **fork**, **or adapt** this repository for coursework submission.
+- Use this repository only as a high-level learning reference after completing your own work.
+
+By viewing or interacting with this repository, you acknowledge that you understand and agree to these terms.
